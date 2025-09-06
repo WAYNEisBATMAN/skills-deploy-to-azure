@@ -10,8 +10,8 @@ env:
   ###############################################
   ### Replace <username> with GitHub username ###
   ###############################################
-  DOCKER_IMAGE_NAME: WAYNEisBATMAN-azure-ttt
-  AZURE_WEBAPP_NAME: WAYNEisBATMAN-ttt-app
+  DOCKER_IMAGE_NAME: wayneisbatman-azure-ttt
+  AZURE_WEBAPP_NAME: wayneisbatman-ttt-app
   ###############################################
 
 jobs:
