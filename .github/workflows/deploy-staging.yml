@@ -12,7 +12,7 @@ env:
   ###############################################
   DOCKER_IMAGE_NAME: wayneisbatman-azure-ttt
   AZURE_WEBAPP_NAME: wayneisbatman-ttt-app
-  ###############################################
+  ################################################
 
 jobs:
   build:
